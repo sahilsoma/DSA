@@ -15,3 +15,5 @@ Here is a list of planned topics:
             10. Advanced data structures and algorithms
             11. Case studies and real-world examples
             12. Conclusions and next steps
+
+Note: This is a initial outline for the repo, changes and updates are expected.
